@@ -6,6 +6,8 @@ packages:
 - jupyter-panel-proxy
 
 dependencies:
+
+  - python=3.9
   - numpy
   - pandas
   - aiohttp=3.8.1
